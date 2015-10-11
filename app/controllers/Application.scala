@@ -3,6 +3,7 @@ package controllers
 import play.api._
 import play.api.db.DB
 import play.api.mvc._
+import play.api.Play.current
 
 class Application extends Controller {
 
